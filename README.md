@@ -15,3 +15,4 @@
 python main --c Москва --v python-разработчик
 
 
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/3d864c56-25ef-4ec9-a872-2f832b6012e6" />
