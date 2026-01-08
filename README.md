@@ -19,6 +19,8 @@ python main.py --c Москва --v python-разработчик
 ```
 
 
+если что-то не работает, автору похуй
+
 
 
 <img width="1920" height="1033" alt="image_2026-01-08_15-58-45" src="https://github.com/user-attachments/assets/1b6b83c1-2526-4a6a-8c51-d603e630d8ad" />
